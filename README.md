@@ -9,12 +9,6 @@
 
 ---
 
-## 🎮 Play Now
-
-> **[▶ Live Demo](https://yourusername.github.io/mine-pac)**
-> *(replace with your GitHub Pages link after deploying)*
-
----
 
 ## 📸 Preview
 
