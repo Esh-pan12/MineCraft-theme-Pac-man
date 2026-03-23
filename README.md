@@ -9,19 +9,6 @@
 
 ---
 
-
-## 📸 Preview
-
-<!-- Record a short GIF of gameplay and drop it here -->
-<!-- Recommended: 15–20 seconds showing day/night + crafting + mining -->
-<!-- Tools: ScreenToGif (Windows) · Kap (Mac) · Peek (Linux) -->
-
-```
-[ Drop your gameplay GIF here — it's the #1 thing that gets stars ]
-```
-
----
-
 ## ✨ What Makes This Different
 
 This isn't just Pac-Man with a texture pack. Mine-Pac adds real Minecraft mechanics that change how you play:
